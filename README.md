@@ -1,4 +1,9 @@
 # portfolio
-this is full work of web design portfolio 
-it's responsive code with :
-Html and css
+full working web designed portfolio 
+## Features
+- responsive
+## code with 
+- CSS
+- HTML
+## live Demo
+https://chariff16.github.io/portfolio/
